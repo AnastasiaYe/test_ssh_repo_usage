@@ -1,1 +1,1 @@
-from power import test_power
+from .models.power import test_power
