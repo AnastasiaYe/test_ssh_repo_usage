@@ -1,1 +1,1 @@
-from .power.py import test_power
+from power import test_power
